@@ -27,6 +27,12 @@ Articoli analizzati: filtro olio motore EJ200 (stazionario), kit di manutenzione
 - include un'**analisi di sensibilità** che confronta più scenari insieme, con tabella esportabile;
 - dispone di tema chiaro e notturno.
 
+## Anteprima
+
+![Pagina di benvenuto](screenshot/01_benvenuto.png)
+![Panoramica](screenshot/02_panoramica.png)
+![Analisi di sensibilità](screenshot/07_sensibilita.png)
+
 ## Struttura
 ```
 app.py                    dashboard Streamlit
